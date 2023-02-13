@@ -2772,6 +2772,7 @@ python-matplotlib:
   ubuntu:
     artful: [python-matplotlib]
     bionic: [python-matplotlib]
+    focal: [python3-matplotlib]
     lucid: [python-matplotlib]
     maverick: [python-matplotlib]
     natty: [python-matplotlib]
